@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Şamil</h1>
-<h3 align="center">An Electrical and Electronics Engineer from Turkey</h3>
+<h3 align="center">A Software Engineer from Turkey</h3>
 
 - 🌱 I’m interested in **Python, Javascript, Deep Learning, Reinforcement Learning, Computer Vision and Communication Technologies**
 - 📫 How to reach me **samilblr@gmail.com**
